@@ -1,0 +1,44 @@
+{
+  "generatedAt": "2026-11-17T06:05:57+00:00",
+  "generator": "tools/build_index.py",
+  "questions": [
+    {
+      "name": "示例问题1-弱阻尼振子.md",
+      "type": "md",
+      "title": "弱阻尼振子：相邻振幅比、对数减缩率与品质因数",
+      "author": "Principia-rain",
+      "date": "2026-11-17",
+      "abstract": "从弱阻尼振子的相邻振幅比出发导出对数减缩率，并证明弱阻尼极限下 λ = π/Q；附题目原页 PDF。",
+      "tags": [
+        "力学",
+        "振动与波"
+      ],
+      "code": [],
+      "status": "已解决",
+      "difficulty": "★★☆",
+      "source": "力学习题课 · 示例",
+      "attach": [
+        "示例题目1-阻尼振动.pdf"
+      ],
+      "size": 3110
+    },
+    {
+      "name": "示例问题2-猫态与经典混合态.md",
+      "type": "md",
+      "title": "薛定谔猫态和\"半死半活\"的经典混合有什么区别？",
+      "author": "Principia-rain",
+      "date": "2026-11-17",
+      "abstract": "纠缠叠加态与经典概率混合态在指针基底下的测量统计完全相同，区别全在对角之外的相干项——从密度矩阵说起，退相干留下一堆没完的问题。",
+      "tags": [
+        "量子力学",
+        "概念辨析"
+      ],
+      "code": [],
+      "status": "讨论中",
+      "difficulty": "★★★",
+      "source": "",
+      "attach": [],
+      "size": 3127
+    }
+  ]
+}
