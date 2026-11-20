@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-11-17T06:05:57+00:00",
+  "generatedAt": "2026-11-20T14:47:27+00:00",
   "generator": "tools/build_index.py",
   "questions": [
+    {
+      "name": "雪球下滚-变质量刚体与瞬心参考点.md",
+      "type": "md",
+      "title": "雪球沿坡下滚：变质量刚体与瞬心参考点",
+      "author": "Principia-rain",
+      "date": "2026-11-20",
+      "abstract": "雪球边滚边黏附、越滚越大：以球心为轴会漏掉黏附质量的角动量/动能通量，以空间瞬心为轴会漏掉 −v_M×P 项；两套正确推导殊途同归于 M = I_M dω/dt + ½ω dI_M/dt。附问题卡与完整解答 PDF。",
+      "tags": [
+        "力学",
+        "刚体动力学"
+      ],
+      "code": [],
+      "status": "已解决",
+      "difficulty": "★★★",
+      "source": "手写推导笔记 · 自拟",
+      "attach": [
+        "雪球下滚-问题.pdf",
+        "雪球下滚-解答.pdf"
+      ],
+      "size": 14309
+    },
     {
       "name": "示例问题1-弱阻尼振子.md",
       "type": "md",
